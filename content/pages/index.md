@@ -26,13 +26,6 @@ sections:
         iconPosition: right
         style: secondary
         type: Button
-      - label: See Tutorials
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        type: Link
     media:
       url: /images/WhatsApp Image 2024-11-17 at 01.08.15_645d68f6.jpg
       altText: Dope design preview
