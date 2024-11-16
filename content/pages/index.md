@@ -13,7 +13,7 @@ sections:
           - pr-7
     type: DividerSection
   - title:
-      text: Business Consulting
+      text: احصل عليه الان
       color: text-dark
       type: TitleBlock
     subtitle: Be in good company
