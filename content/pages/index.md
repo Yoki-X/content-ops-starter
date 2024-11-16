@@ -20,7 +20,7 @@ sections:
     text: |
       تطبق الشروط والاحكام 
     actions:
-      - label: Get started
+      - label: للتواصل
         url: /
         icon: arrowRight
         iconPosition: right
