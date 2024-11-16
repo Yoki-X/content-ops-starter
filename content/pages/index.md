@@ -35,7 +35,7 @@ sections:
         style: primary
         type: Link
     media:
-      url: /images/hero3.svg
+      url: /images/WhatsApp Image 2024-11-17 at 01.08.15_645d68f6.jpg
       altText: Dope design preview
       type: ImageBlock
     badge:
