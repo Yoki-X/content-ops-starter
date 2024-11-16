@@ -16,7 +16,7 @@ sections:
       text: احصل عليه الان
       color: text-dark
       type: TitleBlock
-    subtitle: Be in good company
+    subtitle: اجراءات ميسرة وموافقة فورية
     text: >
       A service that provides advice and guidance to startups and small
       businesses.
