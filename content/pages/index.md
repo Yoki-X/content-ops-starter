@@ -24,7 +24,7 @@ sections:
         url: /
         icon: arrowRight
         iconPosition: right
-        style: secondary
+        style: primary
         type: Button
     media:
       url: /images/WhatsApp Image 2024-11-17 at 01.08.15_645d68f6.jpg
