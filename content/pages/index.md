@@ -17,9 +17,8 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: اجراءات ميسرة وموافقة فورية
-    text: >
-      A service that provides advice and guidance to startups and small
-      businesses.
+    text: |
+      تطبق الشروط والاحكام 
     actions:
       - label: Get started
         url: /
