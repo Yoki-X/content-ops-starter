@@ -63,7 +63,7 @@ sections:
     actions:
       - type: Button
         label: اطلب الآن
-        url: ''
+        url: 'https://wa.me/+96565657912'
         icon: arrowRight
         iconPosition: right
         style: primary
