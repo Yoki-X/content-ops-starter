@@ -66,7 +66,7 @@
     },
     "buttonSecondary": {
         "weight": "bold",
-        "case": "capitalize",
+        "case": "none",
         "letterSpacing": "normal",
         "borderRadius": "DEFAULT",
         "shadow": "none",
