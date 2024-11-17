@@ -14,7 +14,7 @@
         },
         {
             "altText": "Twitter link",
-            "url": "https://twitter.com/netlify",
+            "url": "",
             "icon": "twitter",
             "type": "Social"
         },
