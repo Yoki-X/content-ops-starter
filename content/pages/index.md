@@ -53,7 +53,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: Open positions
+      text: يمكنك الآن الطلب عبر
       color: text-dark
       styles:
         self:
