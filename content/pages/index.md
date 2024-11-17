@@ -21,7 +21,7 @@ sections:
       تطبق الشروط والاحكام 
     actions:
       - label: للتواصل
-        url: /
+        url: 'https://wa.me/+96565657912'
         icon: arrowRight
         iconPosition: right
         style: secondary
