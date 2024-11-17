@@ -28,7 +28,7 @@ sections:
         type: Button
         showIcon: false
       - type: Button
-        label: Get started
+        label: اطلب الآن
         altText: ''
         url: 'https://wa.me/+96565657912'
         showIcon: false
