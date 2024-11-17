@@ -23,7 +23,7 @@ sections:
       - label: للتواصل
         url: 'https://wa.me/+96565657912'
         icon: arrowRight
-        iconPosition: left
+        iconPosition: right
         style: secondary
         type: Button
         showIcon: false
