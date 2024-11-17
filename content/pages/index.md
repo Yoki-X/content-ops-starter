@@ -26,7 +26,7 @@ sections:
         iconPosition: right
         style: secondary
         type: Button
-        showIcon: true
+        showIcon: false
     media:
       url: /images/WhatsApp Image 2024-11-17 at 01.08.15_645d68f6.jpg
       altText: Dope design preview
