@@ -27,6 +27,15 @@ sections:
         style: secondary
         type: Button
         showIcon: false
+      - type: Button
+        label: Get started
+        altText: ''
+        url: 'https://wa.me/+96565657912'
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
     media:
       url: /images/WhatsApp Image 2024-11-17 at 01.08.15_645d68f6.jpg
       altText: Dope design preview
