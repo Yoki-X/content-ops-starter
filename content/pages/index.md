@@ -62,7 +62,7 @@ sections:
     items: []
     actions:
       - type: Button
-        label: Apply now
+        label: اطلب الآن
         url: /
         icon: arrowRight
         iconPosition: right
