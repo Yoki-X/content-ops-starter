@@ -3,7 +3,7 @@
         {
             "type": "SubNav",
             "label": "Dropdown",
-            "altText": "Dropdown",
+            "altText": "M2 Store",
             "links": [
                 {
                     "type": "Link",
