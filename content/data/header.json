@@ -6,7 +6,6 @@
     "type": "Header",
     "logo": {
         "type": "ImageBlock",
-        "url": "/images/Screenshot 2024-11-17 031307.png",
         "altText": "Image alt text placeholder",
         "elementId": "",
         "styles": {
