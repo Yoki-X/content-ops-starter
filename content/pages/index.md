@@ -37,7 +37,7 @@ sections:
         style: primary
         elementId: ''
     media:
-      url: /images/WhatsApp Image 2024-11-17 at 01.08.15_645d68f6.jpg
+      url: /images/new.jpg
       altText: Dope design preview
       type: ImageBlock
     badge:
@@ -50,6 +50,13 @@ sections:
         alignItems: center
         flexDirection: row-reverse
     type: GenericSection
+    backgroundImage:
+      type: BackgroundImage
+      altText: altText of the image
+      backgroundSize: auto
+      backgroundPosition: center
+      backgroundRepeat: no-repeat
+      opacity: 100
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
