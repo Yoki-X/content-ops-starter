@@ -37,7 +37,7 @@ sections:
         style: primary
         elementId: ''
     media:
-      url: /images/new.jpg
+      url: /images/WhatsApp Image 2024-12-27 at 19.01.06_e2027e19.jpg
       altText: Dope design preview
       type: ImageBlock
     badge:
